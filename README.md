@@ -8,6 +8,8 @@ This repository contains Python implementations Machine Learning algorithms crea
    - A simple approach to modeling the relationship between a dependent variable and one or more independent variables.
 2. **Gradient Descent**
     - A first-order optimization algorithm used for minimizing a function by iteratively moving toward the steepest descent.
+2. **Multiple Linear Regression**
+    - A first-order optimization algorithm used for minimizing a function by iteratively moving toward the steepest descent.
 
 ## Getting Started
 
